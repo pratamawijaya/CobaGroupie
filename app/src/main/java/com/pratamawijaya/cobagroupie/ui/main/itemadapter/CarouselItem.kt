@@ -1,7 +1,8 @@
-package com.pratamawijaya.cobagroupie
+package com.pratamawijaya.cobagroupie.ui.main.itemadapter
 
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
+import com.pratamawijaya.cobagroupie.R
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.ViewHolder
 import com.xwray.groupie.kotlinandroidextensions.Item

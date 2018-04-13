@@ -1,4 +1,4 @@
-package com.pratamawijaya.cobagroupie;
+package com.pratamawijaya.cobagroupie.utility;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
